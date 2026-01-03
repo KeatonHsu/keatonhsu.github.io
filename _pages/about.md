@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a PhD student in Psychiatry and Mental Health at Peking University Huilongguan Clinical Medicine School. I'm also a psychotherapist. My research focuses on stress and coping, neurocognition, and adolescent mental health.
+I'm a PhD student in Psychiatry and Mental Health at Peking University Huilongguan Clinical Medicine School. I'm also a psychological therapist. My research focuses on stress and coping, neurocognition, and adolescent mental health.
 
 PhD student, Peking University Health Science Center, Psychiatry and Mental Health, Since September 2025.
 
