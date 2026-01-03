@@ -1,7 +1,7 @@
 ---
 title: "Validation of the Chinese version of patient health Questionnaire-4 among Chinese adolescents"
 collection: publications
-category: Article
+category: manuscript
 permalink: https://doi.org/10.1016/j.jad.2025.119505
 excerpt: 'This study aimed to validate the Chinese version of the Patient Health Questionnaire-4 (PHQ-4) in Chinese adolescents. The findings indicated that the Chinese PHQ-4 is a reliable and valid instrument for screening anxiety and depression among Chinese adolescents, with an optimal recommended cutoff score of 3.'
 date: 2025-05-27
