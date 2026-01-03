@@ -2,7 +2,7 @@
 title: "The role of difficulties in emotion regulation on non-suicidal self-injury and suicide attempts: a cross-sectional study of Chinese adolescents"
 collection: publications
 category: manuscripts
-permalink: /https://doi.org/10.1038/s41598-025-91962-5
+permalink: https://doi.org/10.1038/s41598-025-91962-5
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-07-01
 venue: 'Sentific Reports'
