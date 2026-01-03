@@ -3,7 +3,7 @@ title: "Suicide attempts and non-suicidal self-injury in Chinese adolescents: Pr
 collection: publications
 category: manuscripts
 permalink: https://doi.org/10.1016/j.ajp.2024.104088
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This study aimed to identify the risk factors and essential warning signs of SA, establish a predictive model for SA using multiple dimensions and large samples, and provide a multidimensional perspective for clinical diagnosis and intervention. This study may provide guidance and more nuanced insights for clinical diagnosis as well as a foundation for clinical treatment.'
 date: 2024-05-20
 venue: 'Asain Journal of Psychiatry'
 ---
