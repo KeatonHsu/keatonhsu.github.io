@@ -3,7 +3,7 @@ title: "The role of difficulties in emotion regulation on non-suicidal self-inju
 collection: publications
 category: manuscripts
 permalink: https://doi.org/10.1038/s41598-025-91962-5
-excerpt: 'This study aims to investigate the role of DER in NSSI and SA among adolescents, which is of substantial clinical importance for the prevention and intervention of adolescent suicidal behaviors. We observed a threshold effect, whereby the DER significantly increased the severity of NSSI after reaching a threshold score of 87. Our study provides valuable insights into the psychological mechanism of DER in relation to NSSI and SA among Chinese adolescents, underscoring the importance of intervention and prevention strategies aimed at addressing these underlying difficulties.'
+excerpt: 'This study aims to investigate the role of DER in NSSI and SA among adolescents, which is of substantial clinical importance for the prevention and intervention of adolescent suicidal behaviors. We observed a threshold effect, whereby the DER significantly increased the severity of NSSI after reaching a threshold score of 87.'
 date: 2025-07-01
 venue: 'Sentific Reports'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
