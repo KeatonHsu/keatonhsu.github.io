@@ -26,7 +26,7 @@ author:
   avatar           : "../images/123.png"
   name             : "Hao Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Hello world!"
+  bio              : "print('Hello world!')"
   location         : "Beijing, China"
   employer         : "Beijing Huilongguan Hospital"
   uri              : # URL
