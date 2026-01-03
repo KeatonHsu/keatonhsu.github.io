@@ -1,5 +1,5 @@
 ---
-title: "Research progress on laboratory-based acute stress induction paradigm(review)"
+title: "Research progress on laboratory-based acute stress induction paradigm(review paper)"
 collection: publications
 category: manuscripts
 permalink: DOI:10.3969/j.issn.1009-6574.2023.03.011
