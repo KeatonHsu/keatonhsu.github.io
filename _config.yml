@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Hao Xu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Hello world!"
   location         : "Beijing, China"
-  employer         : "Beijing Huilongguan Hospital, Peking University"
+  employer         : "Beijing Huilongguan Hospital"
   uri              : # URL
   email            : "haoxu1224@gmail.com" 
 
