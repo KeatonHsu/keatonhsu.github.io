@@ -3,7 +3,7 @@ title: "Suicide attempts and non-suicidal self-injury in Chinese adolescents: Pr
 collection: publications
 category: manuscripts
 permalink: https://doi.org/10.1016/j.ajp.2024.104088
-excerpt: 'This study aimed to identify the risk factors and essential warning signs of SA, establish a predictive model for SA using multiple dimensions and large samples, and provide a multidimensional perspective for clinical diagnosis and intervention. This study may provide guidance and more nuanced insights for clinical diagnosis as well as a foundation for clinical treatment.'
+excerpt: 'This study aimed to identify the risk factors and essential warning signs of SA, establish a predictive model for SA using multiple dimensions and large samples, and provide a multidimensional perspective for clinical diagnosis and intervention. Both the prediction model performance of the SA group and the NSSI-SA subgroup were strong, with high accuracy, and AUC values of 0.93 and 0.88, indicating good discrimination. Decision curve analysis (DCA) demonstrated that the clinical intervention value of the prediction results was high and that the clinical intervention benefits of the NSSI-SA subgroup were greater than those of the SA group.'
 date: 2024-05-20
 venue: 'Asain Journal of Psychiatry'
 citation: 'Xu H, Liu D, Xu X, Chen Y, Qu W, Tan Y, Wang Z, Zhao Y, Tan S. Suicide attempts and non-suicidal self-injury in Chinese adolescents: Predictive models using a neural network model. Asian J Psychiatr. 2024 Jul;97:104088. doi: 10.1016/j.ajp.2024.104088. Epub 2024 May 20. PMID: 38810490.'
