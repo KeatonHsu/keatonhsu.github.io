@@ -7,7 +7,7 @@ excerpt: 'Studies have shown that acute stress is highly related to human physic
 date: 2023-03-20
 venue: 'Journal of Neuroscience and Mental Health(Chinese Journal)'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Xu, H., Zhao, Y., Tan., 2023. Research progress on laboratory-based acute stress induction paradigm Journal of Neuroscience and Mental Health 23, 3. https://doi.org/10.3969/j.issn.1009-6574.2023.03.011 (Chinese)'
+citation: 'Xu, H., Zhao, Y., Tan，S. 2023. Research progress on laboratory-based acute stress induction paradigm Journal of Neuroscience and Mental Health 23, 3. https://doi.org/10.3969/j.issn.1009-6574.2023.03.011 (Chinese)'
 ---
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
