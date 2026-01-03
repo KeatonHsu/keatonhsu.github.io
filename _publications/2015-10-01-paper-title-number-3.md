@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "Validation of the Chinese version of patient health Questionnaire-4 among Chinese adolescents"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /https://doi.org/10.1016/j.jad.2025.119505
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+date: 2025-05-27
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
